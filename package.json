@@ -1,0 +1,15 @@
+{
+  "name": "int",
+  "version": "1.0.0",
+  "description": "NOTE: This is markdown file, use a Markdown viewer or editor...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pino": "^8.0.0",
+    "pino-pretty": "^8.0.0"
+  }
+}
